@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="186px" height="186px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17.07 17.07">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#07A56D;stroke-width:0.43;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .str1 {stroke:#FEFEFE;stroke-width:0.73;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil4 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil0 {fill:#FEFEFE}
+    .fil5 {fill:#666666}
+    .fil3 {fill:#B4E4D3}
+    .fil1 {fill:#EEEEEE}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1860708040816">
+   <g>
+    <path class="fil0" d="M8.53 0c4.72,0 8.54,3.82 8.54,8.53 0,4.72 -3.82,8.54 -8.54,8.54 -4.71,0 -8.53,-3.82 -8.53,-8.54 0,-4.71 3.82,-8.53 8.53,-8.53z"/>
+    <path id="1" class="fil1" d="M8.53 0c4.72,0 8.54,3.82 8.54,8.53 0,4.72 -3.82,8.54 -8.54,8.54 -4.71,0 -8.53,-3.82 -8.53,-8.54 0,-4.71 3.82,-8.53 8.53,-8.53zm5.59 2.95c-1.43,-1.43 -3.41,-2.31 -5.59,-2.31 -2.18,0 -4.15,0.88 -5.58,2.31 -1.43,1.43 -2.31,3.4 -2.31,5.58 0,2.18 0.88,4.16 2.31,5.59 1.43,1.42 3.4,2.31 5.58,2.31 2.18,0 4.16,-0.89 5.59,-2.31 1.42,-1.43 2.31,-3.41 2.31,-5.59 0,-2.18 -0.89,-4.15 -2.31,-5.58z"/>
+   </g>
+   <path class="fil2 str0" d="M4.27 4.96c1.09,-0.73 2.91,-1.46 4.37,-1.46 1.46,0 3.28,0.73 4.37,1.46l0 4.49c0,2.02 -2.55,3.89 -4.37,4.62 -1.82,-0.73 -4.37,-2.6 -4.37,-4.62l0 -4.49z"/>
+   <path class="fil3" d="M8.64 13.48c1.5,-0.66 3.83,-2.31 3.83,-4.03l0 -4.19c-1.07,-0.65 -2.63,-1.21 -3.83,-1.21l0 9.43z"/>
+   <g>
+    <path class="fil4 str1" d="M7.89 10.24l0.45 0 0.6 0 0.45 0 0 -0.43 -0.43 0 0 -1.66 0 -0.47 -0.62 0 -0.45 0 0 0.43 0.43 0 0 1.7 -0.43 0 0 0.43zm0.43 -2.99l0.64 0 0 -0.64 -0.64 0 0 0.64z"/>
+    <path id="1" class="fil5" d="M7.89 10.24l0.45 0 0.6 0 0.45 0 0 -0.43 -0.43 0 0 -1.66 0 -0.47 -0.62 0 -0.45 0 0 0.43 0.43 0 0 1.7 -0.43 0 0 0.43zm0.43 -2.99l0.64 0 0 -0.64 -0.64 0 0 0.64z"/>
+   </g>
+  </g>
+ </g>
+</svg>
